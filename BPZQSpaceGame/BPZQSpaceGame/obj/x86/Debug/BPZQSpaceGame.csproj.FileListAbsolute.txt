@@ -1,0 +1,296 @@
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\startBackground.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+C:\Users\the_a\AppData\Roaming\Skype\My Skype Received Files\download\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+G:\Year 2 Term 1\game prog\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+C:\Users\Zqi4525\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+G:\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+C:\Users\Chase Qi\Desktop\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.csprojResolveAssemblyReference.cache
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+G:\important stuff\conestoga\year 2 term 1\game dev\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Fonts\regularFont.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\howToPlayImage.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\helpImage.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\aboutImage.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\Ship1.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bullet1.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss2.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\starbase-tex.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\boss1.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy2.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\enemy1.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageGame.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\backgroundImageStart.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\bulletE.xnb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.exe
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\BPZQSpaceGame.pdb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.exe
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\obj\x86\Debug\BPZQSpaceGame.pdb
+G:\BPZQSpaceGame-2\BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame\bin\x86\Debug\Content\Images\endScene.xnb

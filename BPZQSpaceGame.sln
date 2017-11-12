@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPZQSpaceGame", "BPZQSpaceGame\BPZQSpaceGame\BPZQSpaceGame.csproj", "{185CA0E0-AA0C-48FA-9C51-B61934354832}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BPZQSpaceGameContent", "BPZQSpaceGame\BPZQSpaceGameContent\BPZQSpaceGameContent.contentproj", "{7C2D06E9-2BB1-4E47-8820-EA65E9719D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185CA0E0-AA0C-48FA-9C51-B61934354832}.Debug|x86.ActiveCfg = Debug|x86
+		{185CA0E0-AA0C-48FA-9C51-B61934354832}.Debug|x86.Build.0 = Debug|x86
+		{185CA0E0-AA0C-48FA-9C51-B61934354832}.Release|x86.ActiveCfg = Release|x86
+		{185CA0E0-AA0C-48FA-9C51-B61934354832}.Release|x86.Build.0 = Release|x86
+		{7C2D06E9-2BB1-4E47-8820-EA65E9719D2F}.Debug|x86.ActiveCfg = Debug|x86
+		{7C2D06E9-2BB1-4E47-8820-EA65E9719D2F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
